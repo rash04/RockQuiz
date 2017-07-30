@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RockQuiz</string>
+
+    <string name="question_1">DSOTM was released in 1971.</string>
+    <string name="question_2">Judas Priest\'s lead guitarist died in 1988.</string>
+    <string name="question_3">Tool has not released an album in 13 years.</string>
+    <string name="question_4">Megadeth\'s Dave Mustaine used to play for Metallica.</string>
+    <string name="question_5">Black Sabbath\'s first album was called Black Sabbath.</string>
+    <string name="question_6">Jimmy Page wrote the main riff for Black Dog.</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Wrong!</string>
+
+    <string name="next_imagebutton">Next question</string>
+    <string name="prev_imagebutton">Previous question</string>
+
+    <string name="score">You have scored %1$.2f%%!</string>
+    <string name="warning_toast">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong</string>
+    <string name="cheats_remaining">Cheats remaining: <b>%1$d</b></string>
+</resources>
